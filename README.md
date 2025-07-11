@@ -33,8 +33,8 @@ A modern, installable Progressive Web Application built using React, Vite, Tailw
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pwa-landing-page.git
-cd pwa-landing-page
+git clone https://github.com/BeastEMP/PWA.git
+cd PWA
 
 # Install dependencies
 npm install
